@@ -35,6 +35,10 @@ echo "Installiere plotly..."
 pip3 install plotly --quiet
 echo "[OK] plotly installiert"
 
+echo "Installiere altair..."
+pip3 install altair --quiet
+echo "[OK] altair installiert"
+
 echo ""
 echo "========================================"
 echo "  Installation abgeschlossen!"

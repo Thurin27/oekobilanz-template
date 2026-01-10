@@ -40,6 +40,10 @@ echo Installiere plotly...
 pip install plotly --quiet
 echo [OK] plotly installiert
 
+echo Installiere altair...
+pip install altair --quiet
+echo [OK] altair installiert
+
 echo.
 echo ========================================
 echo   Installation abgeschlossen!
